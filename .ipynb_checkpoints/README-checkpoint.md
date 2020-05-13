@@ -11,7 +11,7 @@ Applied conditional formatting indicating project states , calculated funding pe
 
 
 
-![](Images/categorized_campaign_count.png)
+![](/Images/categorized_campaign_count.png)
 
 Concluded 
 
