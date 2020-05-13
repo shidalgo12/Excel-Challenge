@@ -11,7 +11,7 @@ Applied conditional formatting indicating project states , calculated funding pe
 
 
 
-![](https://github.com/shidalgo12/Excel-Challenge/tree/master/Images/categorized_campaign_count.png)
+![](Images/categorized_campaign_count.png)
 
 Concluded 
 
