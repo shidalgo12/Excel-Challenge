@@ -2,16 +2,16 @@
 
 ## Overview
 
-Kickstarter is an online resource allowing innovators to share their ideas with others and potentially fundraise money to proceed with their projects.  This Excel workbook was modified and analyzed to determine the success rates of 4,000 campaigns.  
+Kickstarter is an online resource allowing innovators to share their ideas with others and potentially fundraise money to proceed with their projects.  This Excel workbook was modified and analyzed to determine the success rates of +4,100 campaigns worldwide.  
 
-The original dataset was organized and formatted highlighting the state (i.e. successful, live, cancelled, or failed) and funding of each project and then expanded into pivot charts to illustrate  
+The original dataset was organized and formatted highlighting the state (i.e. successful, live, cancelled, or failed) and funding of each project and then expanded into pivot charts to visualize 
 
 
 Applied conditional formatting indicating project states , calculated funding percentages 
 
 
 
-
+![](https://github.com/shidalgo12/Excel-Challenge/tree/master/Images/categorized_campaign_count.png)
 
 Concluded 
 
@@ -60,14 +60,3 @@ Create a new sheet with a pivot table with a column of state, rows of Date Creat
 
 
 Now create a pivot chart line graph that visualizes this new table.
-
-
-
-
-Create a report in Microsoft Word and answer the following questions.
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 24af0681599cc578b2b36ff93ab93e5300897736
