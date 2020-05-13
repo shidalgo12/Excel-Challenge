@@ -9,10 +9,7 @@ The original dataset was organized and formatted highlighting the state (i.e. su
 
 Applied conditional formatting indicating project states , calculated funding percentages 
 
-![chart1](images/categorized_campaign_count.png)
-![chart2](images/category_state_by_date.png)
-![chart3](images/outcome_based_on_goal.png)
-![chart4](images/state_per_sub-categroy.png)
+
 
 
 
