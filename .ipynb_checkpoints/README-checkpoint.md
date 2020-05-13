@@ -9,10 +9,10 @@ The original dataset was organized and formatted highlighting the state (i.e. su
 
 Applied conditional formatting indicating project states , calculated funding percentages 
 
-![chart1](/images/categorized_campaign_count.png)
-![chart2](/images/category_state_by_date.png)
-![chart3](/images/outcome_based_on_goal.png)
-![chart4](/images/state_per_sub-categroy.png)
+![chart1](images/categorized_campaign_count.png)
+![chart2](images/category_state_by_date.png)
+![chart3](images/outcome_based_on_goal.png)
+![chart4](images/state_per_sub-categroy.png)
 
 
 
@@ -68,6 +68,9 @@ Now create a pivot chart line graph that visualizes this new table.
 
 
 Create a report in Microsoft Word and answer the following questions.
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 24af0681599cc578b2b36ff93ab93e5300897736
