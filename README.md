@@ -12,7 +12,7 @@ Structured a stacked column pivot chart visualizing the amount of Live, Successf
 ## Total Sub-Category Campaigns
 Expaned the first pivot chart to count how many campaigns were Live, Successful, Failed and Canceled per sub-category.  Filters of Parent Categories and Country provided for a more in depth analysis.
 
-![](/Images/state_per_sub-categroy.png)
+![](/Images/state_per_sub-category.png)
 
 ## Campaign Outcome per Month
 
