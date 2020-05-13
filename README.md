@@ -68,6 +68,9 @@ Now create a pivot chart line graph that visualizes this new table.
 
 
 Create a report in Microsoft Word and answer the following questions.
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 24af0681599cc578b2b36ff93ab93e5300897736
