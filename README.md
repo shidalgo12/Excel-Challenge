@@ -12,6 +12,9 @@ Applied conditional formatting indicating project states , calculated funding pe
 
 
 ![](/Images/categorized_campaign_count.png)
+![](/Images/category_state_by_date.png)
+![](/Images/outcome_based_on_goal.png)
+![](/Images/state_per_sub-categroy.png)
 
 Concluded 
 
