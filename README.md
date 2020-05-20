@@ -24,7 +24,4 @@ Created a pivot table with a column of state, rows of Date Created, values based
 ## Outcome based on Financial Goals
 
 Built a table providing the rate of success across all campaigns.  Rows are categorized based on the range of targeted funding divided in intervals of "$"5000. 
-![](/Images/outcome_based_on_goal.png) 
-
-
-
+![](/Images/outcome_based_on_goal.png)
