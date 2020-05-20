@@ -14,7 +14,7 @@ Expanded the first pivot chart to count how many campaigns were Live, Successful
 
 ![](/Images/state_per_sub-category.png)
 
-## Campaign Outcome per Month
+## Campaign Outcome Per Month
 
 Created a pivot table with a column of state, rows of Date Created, values based on the count of state, and filters based on parent category and Years.
 
